@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Drive & Travel autoškola">
+  <rect width="64" height="64" rx="18" fill="#176B4D"/>
+  <path d="M16 42h32l-5.5-11.5A4 4 0 0 0 38.7 28H25.3a4 4 0 0 0-3.8 2.5L16 42zm7.5-16h17l1.5 3H22l1.5-3z" fill="#ffffff"/>
+  <path d="M19 47.5h26a3 3 0 0 1 0 6H19a3 3 0 0 1 0-6z" fill="#D92D2D"/>
+  <circle cx="23" cy="47.5" r="4" fill="#ffffff"/>
+  <circle cx="41" cy="47.5" r="4" fill="#ffffff"/>
+</svg>
