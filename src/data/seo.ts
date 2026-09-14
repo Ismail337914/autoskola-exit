@@ -1,7 +1,6 @@
 export const seo = {
-  title: 'Drive & Travel Autoškola Sarajevo | Novo Sarajevo',
-  description:
-    'Drive & Travel autoškola u Sarajevu, na području Novog Sarajeva. Informišite se o obuci, upisu i vozačkom ispitu te nas pronađite na Malti.',
+  title: 'Auto Škola "Start" Sarajevo | Ilidža',
+  description: 'Auto Škola "Start" Sarajevo nalazi se na adresi Ustanička 13, Ilidža. Započni svoj put za volanom.',
   canonical: '/',
   ogImage: '/og-image.svg'
 };
