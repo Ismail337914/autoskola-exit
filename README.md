@@ -1,66 +1,71 @@
 ADAPT THE EXISTING DRIVE & TRAVEL DEMO FOR:
 
-AUTO ŠKOLA "START" SARAJEVO
+AUTOŠKOLA TEMPO SARAJEVO
 
 ==================================================
 VERIFIED INFORMATION
 ==================================================
 
 Name:
-Auto Škola "Start" Sarajevo
+Autoškola TEMPO Sarajevo
 
 Address:
-Ustanička 13, Ilidža, Sarajevo
+WOG Centar, Jošanička 55, Vogošća
 
 Phone:
-061 807 927
+062 301 304
 
-Public directory information states:
-Operating since 1988.
+Email:
+deniskorjenic4@gmail.com
 
-Do not invent additional history or statistics.
+Public directory information mentions:
+possibility of payment in installments.
 
-Do not use the publicly listed email until it is manually verified because the source appears to contain a possible spelling error.
+Do not invent:
+- exact prices
+- exact number of installments
+- instructors
+- vehicle models
+- pass rates
 
 ==================================================
 VISUAL IDENTITY
 ==================================================
 
-Exact brand colors are not sufficiently verified.
+The exact Sarajevo TEMPO brand palette was not sufficiently verified.
 
 Do not guess.
 
 Use:
 white
 charcoal
-neutral gray
+light gray
 
-Accent:
-placeholder until logo/brand photos are provided.
+Add an accent only after real logo/vehicle material is provided.
 
 ==================================================
 DESIGN
 ==================================================
 
-The brand name "START" naturally supports a concept of:
-first step
-new beginning
-confidence
+TEMPO suggests:
+rhythm
 progress
+steady learning
+moving forward
 
-Use this concept subtly.
+Use subtle motion/progress elements.
 
-Do NOT make it childish.
+Do not use flashy racing visuals.
 
 ==================================================
 HERO
 ==================================================
 
 Headline:
-"Započni svoj put za volanom."
+"Pravi tempo do vozačke dozvole."
 
 Supporting:
-"Prvi korak prema sigurnoj i samostalnoj vožnji."
+"Korak po korak do sigurnije vožnje."
 
 CTA:
 "UPIŠI SE"
@@ -75,7 +80,7 @@ SECTIONS
 Hero
 About
 Obuka
-Zašto Start
+Proces
 Vozila
 Gallery
 FAQ
@@ -84,21 +89,21 @@ Location
 CTA
 Footer
 
-No fabricated prices, categories, instructors or testimonials.
+Do not fabricate unsupported content.
 
 ==================================================
 SEO
 ==================================================
 
-"auto škola Ilidža"
+"auto škola Vogošća"
+"autoškola Vogošća"
 "auto škola Sarajevo"
-"autoškola Ilidža"
-"Auto Škola Start Sarajevo"
+"Autoškola Tempo Sarajevo"
 
 ==================================================
 IMAGES
 ==================================================
 
-Do not generate images.
+No invented images.
 
-Use placeholders if no real Start photography is available.
+Use placeholders where actual Tempo photography is unavailable.
